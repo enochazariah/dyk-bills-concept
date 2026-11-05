@@ -1,0 +1,17 @@
+:root {
+  font-family: "Segoe UI Variable", "Segoe UI", sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --color-primary: #211F1B;
+  --color-accent: #B49A5A;
+  --color-surface: #F6F5F1;
+  --color-text: #25241F;
+  --color-muted: #706F69;
+  --color-border: #D9D6CE;
+  --color-raised: #FFFFFF;
+  --font-heading: "Cormorant Garamond", Georgia, serif;
+  --content-width: 1180px;
+}
